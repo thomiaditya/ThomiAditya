@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source project**
 
-- 👨‍💻 All of my projects are available at [my github of course](my github of course)
+- 👨‍💻 All of my projects are available at [my github](https://github.com/thomiaditya?tab=repositories)
 
 - 💬 Ask me about **all about web programming, such as react, laravel, express, and other**
 
