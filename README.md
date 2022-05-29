@@ -1,5 +1,5 @@
 <h1 align="center">I'm Thomi Aditya</h1>
-<h3 align="center">And these are my lovely projects.</h3>
+<h3 align="center">And these are my lovely cakes.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomiaditya" alt="thomiaditya" /></a> </p>
 
