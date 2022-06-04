@@ -3,8 +3,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomiaditya" alt="thomiaditya" /></a> </p>
 
-- 🔭 I’m currently working on **library system**
-
 - 🌱 I’m currently learning **machine learning, deep learning, neural network, and other AI stuff.**
 
 - 👯 I’m looking to collaborate on **open source project**
