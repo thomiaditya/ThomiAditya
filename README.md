@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/18701474/182011378-ebd86487-777d-4532-b7a2-6e7b732f122b.png)
 
-Please enjoy the ride of my Github Repositories, sometimes you will find something fun, sometimes a little bit absurd.
+Greeting all of you to my Github Repositories, in this repo, sometimes you will find something fun, sometimes a little bit absurd. But, thank you for the visit!
 ---
 
 This Github Repo is devoted to save (and also showcase) all my projects troughout my programming life. I love being organize, in every project I want it to be perfect and as organize as I could, even in a very small detail. This means every project that I evolved in is mostly and must be organize using somekind of agreement before the project started. 
