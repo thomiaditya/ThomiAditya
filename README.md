@@ -1,10 +1,9 @@
 [![banner](https://user-images.githubusercontent.com/18701474/182011378-ebd86487-777d-4532-b7a2-6e7b732f122b.png)](https://github.com/thomiaditya)
 
-Greeting all of you to my Github Repositories, in this repo, sometimes you will find something fun, sometimes a little bit absurd. But, thank you for the visit!
----
+## Greeting all of you to my Github Repositories! I've got a little bit of everything here, from the serious to the absurd.
 
-This ***Github Repo*** is devoted to save (and also showcase) all my projects troughout my programming life. I love being organize, in every project I want it to be perfect and as organize as I could, even in a very small detail. This means every project that I evolved in is mostly and must be organize using somekind of agreement before the project started. 
+This ***Github Repo*** is devoted to save (and also showcase) all my projects troughout my programming life. I'm all about being organized, down to even the smallest detail. That's why I make sure that every project I work on is well-planned and structured from the beginning. 
 
-***Git*** is the most useful tool that I know these day to organize a project and ***Github*** is so awesome. As also a ***Graphic Designer***, I like to think in structuric and aesthetic ways of thinking and ***Github*** provides me as a platform with the awesome design and features that Github offers and it keeps going! So proud of being one in this community.
+I use ***Git*** to keep everything neat and tidy, and ***Github***'s design and features are just amazing! As a graphic designer, I always appreciate a platform that combines functionality with aesthetics. Plus, I'm so excited to be part of this amazing community!
 
-Anyways, if you guys need me as any kind of business purpose, feel free to contact me on [thomiaditya@gmail.com](mailto:thomiaditya@gmail.com) and let me see what I could do for you.
+Anyways, if you have any business inquiries or just want to chat, feel free to reach me at [thomiaditya@gmail.com](mailto:thomiaditya@gmail.com). Thanks for stopping by!
